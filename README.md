@@ -1,19 +1,21 @@
 # Hey, I'm Afsal M 👋
-I'm a Data Analyst with 2+ years of experience working with SQL, Power BI, Excel and Python. I enjoy transforming raw data into meaningful insights, dashboards and business solutions.
+I'm a Data Analyst with 2+ years of experience working with SQL,
+Power BI, Excel and Python. I enjoy transforming raw data into
+meaningful insights, dashboards and business solutions.
 
-## Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:afsalafsu9500@gmail.com)
+## Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afsal-m-0b6566221)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:afsalafsu9500@gmail.com)
 
 ────────────────────────────────────────────
 
-## 📊 Quick peek into my life
-- 🔍 Turning raw data into meaningful insights
-- 📊 Building interactive Power BI dashboards
-- 🧮 Writing SQL queries for business analysis
-- 🐍 Exploring data with Python & Pandas
-- 📈 Creating KPI & MIS reports
-- 🚀 Continuously learning Data Analytics & AI
+## 📊 Quick peek into my life:
+🔍 Turning raw data into meaningful insights
+📊 Building interactive Power BI dashboards
+🧮 Writing SQL queries for business analysis
+🐍 Exploring data with Python & Pandas
+📈 Creating KPI & MIS reports
+🚀 Continuously learning Data Analytics & AI
 
 ────────────────────────────────────────────
 
@@ -21,10 +23,10 @@ I'm a Data Analyst with 2+ years of experience working with SQL, Power BI, Excel
 
 ### 📊 Data Analytics & Business Intelligence
 <p align="left">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=data%3Aimage/svg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iYmxhY2siPjxwYXRoIGQ9Ik00IDEwaDN2MTFINHpNOSA1aDN2MTZIOXpNMTQgMTNoM3Y4aC0zek0xOSAyaDN2MTloLTN6Ii8%2BPC9zdmc%2B&logoColor=black" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=data%3Aimage/svg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0zIDNoMTh2MThIM1Yzem0yIDJ2M2gzVjVINXptNSAwdjNoOVY1aC05ek01IDEwdjNoM3YtM0g1em01IDB2M2g5di0zaC05ek01IDE1djRoM3YtNEg1em01IDB2NGg5di00aC05eiIvPjwvc3ZnPg%3D%3D&logoColor=white" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
   <img src="https://img.shields.io/badge/DAX-512BD4?style=for-the-badge&logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20Query-742774?style=for-the-badge&logo=microsoft&logoColor=white" />
@@ -46,38 +48,11 @@ I'm a Data Analyst with 2+ years of experience working with SQL, Power BI, Excel
 
 ### 🏢 Enterprise Technologies
 <p align="left">
-  <img src="https://img.shields.io/badge/Pega-00AEEF?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pega-00AEEF?style=for-the-badge&logo=data%3Aimage/svg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAybDMgNS0zIDUtMy01IDMtNXpNNCAxMmwzIDUtMyA1LTMtNSAzLTV6TTIwIDEybDMgNS0zIDUtMy01IDMtNXpNMTIgMTJsMyA1LTMgNS0zLTUgMy01eiIvPjwvc3ZnPg%3D%3D&logoColor=white" />
   <img src="https://img.shields.io/badge/ServiceNow-62D84E?style=for-the-badge&logo=servicenow&logoColor=white" />
 </p>
 
 ### 🛠️ Tools & Data Technologies
 <p align="left">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/ETL-4B0082?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/EDA-FF6F00?style=for-the-badge&logoColor=white" />
-</p>
-
-────────────────────────────────────────────
-
-## 📂 Featured Projects
-- 📊 Sales Performance Dashboard
-- 🌍 COVID-19 Global Data Analysis
-- 🏢 HR Attrition Analysis
-
-────────────────────────────────────────────
-
-## 🎓 Education
-**B.Sc. Information Technology**
-Karpagam Academy of Higher Education
-
-────────────────────────────────────────────
-
-## 📜 Certifications
-- Data Analytics – Novitech
-- Python with AI – AI for Techies
-- PCSSA – Pegasystems
-- PCSA – Pegasystems
-
-────────────────────────────────────────────
-
-![Profile Views](https://komarev.com/ghpvc/?username=afsal-m&color=blueviolet&style=for-the-badge)
+  <img src="https://img.shields.io/badge/ETL-4B0082?style=for-the-badge&logo=data%3Aimage/svg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0zIDRoMTh2MmwtNyA4djZsLTQtMnYtNEwzIDZWNHoiLz48L3N2Zz4%3D&logoColor=white" />
